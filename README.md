@@ -23,9 +23,34 @@ Materials-Data-Explorer
 | LiFeO2 | 2.10 | 4.35 | 0.000 |
 
 晶體展示
-Al
-<img width="513" height="512" alt="image" src="https://github.com/user-attachments/assets/fbb7eebd-c220-47c5-bbf8-7c2bafbf3a9d" />
-GaN
-<img width="501" height="449" alt="image" src="https://github.com/user-attachments/assets/1fcb8dfd-2e07-4137-9ba9-c5af5963444d" />
+以下為利用 `py3Dmol` 生成的互動式晶體模型截圖。利用 HTML 表格，我們可以整齊地比較不同的結構體系。
+
+<table width="100%" cellspacing="0" cellpadding="5">
+  <tr>
+   <td align="center">
+  <img src="images/Al_structure.png" alt="Aluminum" width="100%">
+</td>
+<td align="center">
+  <img src="images/GaN_structure.png" alt="GaN" width="100%">
+</td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="images/Al_structure.png" alt="Aluminum Structure" width="100%">
+    </td>
+    <td align="center" valign="top">
+      <img src="images/GaN_structure.png" alt="GaN Structure" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <p><em>FCC 結構。Materials Project ID: mp-134。展現出高對稱性的單胞原子排列。</em></p>
+    </td>
+    <td align="center" valign="top">
+      <p><em>纖鋅礦結構。Materials Project ID: mp-804。一個非對稱的六方體系，關鍵的半導體材料。</em></p>
+    </td>
+  </tr>
+</table>
+
 
 
