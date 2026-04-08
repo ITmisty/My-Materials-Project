@@ -1,6 +1,7 @@
 Using Python and the Materials Project API for Material Screening and Data Visualization.
 
 ★Project Overview
+
 Leverage `pymatgen` to interface with the Materials Project database, automating the retrieval of thermodynamic stability, band structures, and space group information, followed by preliminary data screening.
 
 ★Development Environment
